@@ -1,6 +1,6 @@
 # Debug
-/RazorPagesMovie/bin/
+RazorPagesMovie/bin/
 
-/RazorPagesMovie/obj/
+RazorPagesMovie/obj/
 
-/.vs/
+.vs/
