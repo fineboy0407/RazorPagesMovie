@@ -24,6 +24,7 @@ namespace RazorPagesMovie.Models
                     new Movie
                     {
                         Title = "When Harry meet Sally",
+                        Rating = "R",
                         ReleaseDate = DateTime.Parse("1990-2-3"),
                         Genre = "Romantic Comedy",
                         Price = 7.99M,
@@ -32,6 +33,7 @@ namespace RazorPagesMovie.Models
                     new Movie
                     {
                         Title = "Ghostbusters",
+                        Rating = "R",
                         ReleaseDate = DateTime.Parse("1999-11-3"),
                         Genre = "Comedy",
                         Price = 8.88M,
@@ -40,6 +42,7 @@ namespace RazorPagesMovie.Models
                     new Movie
                     {
                         Title = "Rio Bavo",
+                        Rating = "R",
                         ReleaseDate = DateTime.Parse("2019-2-1"),
                         Genre = "Western",
                         Price = 2.5M,
